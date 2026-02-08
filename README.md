@@ -1,2 +1,1 @@
-# NEW-ATGGLOBAL
-THE NEW ATG Global official website
+# ATG Global — Bold Professional Static Website\n\nUpload to GitHub Pages. Replace placeholder logo and add real images. Contact form uses WhatsApp deep-link (GitHub Pages compatible).\n

@@ -1,0 +1,1 @@
+(function(){const b=document.querySelector('[data-mobile-toggle]');const n=document.querySelector('[data-navlinks]');const a=document.querySelector('[data-actions]');if(b&&n){b.addEventListener('click',()=>{n.classList.toggle('open');if(a)a.classList.toggle('open');b.setAttribute('aria-expanded',n.classList.contains('open')?'true':'false');});}})();
