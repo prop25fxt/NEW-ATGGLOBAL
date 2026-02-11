@@ -119,4 +119,8 @@ textarea{min-height:120px;resize:vertical}
   .brand img{height:54px}
   .two-col{grid-template-columns:1fr}
   .gallery{grid-template-columns:1fr 1fr}
+/* Custom crop for cooking oil image */
+img[src*="oil"] {
+  object-position: top center;
 }
+
